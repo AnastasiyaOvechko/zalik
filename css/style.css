@@ -8,6 +8,7 @@ body{
 }
 .logo{
     height: 100px;
+    color: rgb(22, 80, 23);
 }
 .title{
     font-size: 40px;
